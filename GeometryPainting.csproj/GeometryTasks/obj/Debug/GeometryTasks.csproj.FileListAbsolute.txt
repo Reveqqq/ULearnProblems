@@ -1,0 +1,6 @@
+D:\Downloads\GeometryPainting.csproj\GeometryTasks\bin\Debug\GeometryTasks.dll
+D:\Downloads\GeometryPainting.csproj\GeometryTasks\bin\Debug\GeometryTasks.pdb
+D:\Downloads\GeometryPainting.csproj\GeometryTasks\obj\Debug\GeometryTasks.csproj.AssemblyReference.cache
+D:\Downloads\GeometryPainting.csproj\GeometryTasks\obj\Debug\GeometryTasks.csproj.CoreCompileInputs.cache
+D:\Downloads\GeometryPainting.csproj\GeometryTasks\obj\Debug\GeometryTasks.dll
+D:\Downloads\GeometryPainting.csproj\GeometryTasks\obj\Debug\GeometryTasks.pdb

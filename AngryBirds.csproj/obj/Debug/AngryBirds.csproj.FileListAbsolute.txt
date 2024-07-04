@@ -1,0 +1,10 @@
+D:\Загрузки\AngryBirds.csproj\bin\Debug\AngryBirds.exe.config
+D:\Загрузки\AngryBirds.csproj\bin\Debug\AngryBirds.exe
+D:\Загрузки\AngryBirds.csproj\bin\Debug\AngryBirds.pdb
+D:\Загрузки\AngryBirds.csproj\bin\Debug\TestingRoom.dll
+D:\Загрузки\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.AssemblyReference.cache
+D:\Загрузки\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.SuggestedBindingRedirects.cache
+D:\Загрузки\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+D:\Загрузки\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.CopyComplete
+D:\Загрузки\AngryBirds.csproj\obj\Debug\AngryBirds.exe
+D:\Загрузки\AngryBirds.csproj\obj\Debug\AngryBirds.pdb

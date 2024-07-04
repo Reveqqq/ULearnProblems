@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="DiskTree.dll" fullname="D:/Downloads/DiskTree/bin/Debug/net6.0/DiskTree.dll" testcasecount="5" result="Failed" start-time="2023-08-03T07:12:51.9856337Z" end-time="2023-08-03T07:12:52.0640436Z" duration="0.078380" total="5" passed="1" failed="4" inconclusive="0" skipped="0" warnings="0" asserts="5" random-seed="334033398">
+  <command-line><![CDATA[D:\Downloads\DiskTree\bin\Debug\net6.0\DiskTree.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="DiskTree.dll" fullname="D:/Downloads/DiskTree/bin/Debug/net6.0/DiskTree.dll" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2023-08-03T07:12:51.9856337Z" end-time="2023-08-03T07:12:52.0640436Z" duration="0.078380" total="5" passed="1" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="5">
+    <environment framework-version="3.13.3.0" clr-version="6.0.16" os-version="Microsoft Windows 10.0.22621" platform="Win32NT" cwd="D:\Downloads\DiskTree\bin\Debug\net6.0" machine-name="REVEQQQ" user="Huawei" user-domain="REVEQQQ" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="D:\Downloads\DiskTree\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14036" />
+      <property name="_APPDOMAIN" value="DiskTree" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1007" name="DiskTree" fullname="DiskTree" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2023-08-03T07:12:51.9897129Z" end-time="2023-08-03T07:12:52.0640288Z" duration="0.074316" total="5" passed="1" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="5">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="DiskTreeTask_should" fullname="DiskTree.DiskTreeTask_should" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2023-08-03T07:12:51.9909431Z" end-time="2023-08-03T07:12:52.0637713Z" duration="0.072828" total="5" passed="1" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1001" name="Test1" fullname="DiskTree.DiskTreeTask_should.Test1" methodname="Test1" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="1080093052" result="Passed" start-time="2023-08-03T07:12:51.9925784Z" end-time="2023-08-03T07:12:52.0037925Z" duration="0.011278" asserts="1">
+          <output><![CDATA[GAMES
+]]></output>
+        </test-case>
+        <test-case id="1002" name="Test2" fullname="DiskTree.DiskTreeTask_should.Test2" methodname="Test2" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="219489754" result="Failed" start-time="2023-08-03T07:12:52.0051212Z" end-time="2023-08-03T07:12:52.0585325Z" duration="0.053412" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 1 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  String lengths are both 5. Strings differ at index 0.
+  Expected: "USERS"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+            <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test2() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 21
+]]></stack-trace>
+          </failure>
+          <output><![CDATA[GAMES
+]]></output>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 1 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  String lengths are both 5. Strings differ at index 0.
+  Expected: "USERS"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test2() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 21
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1003" name="Test3" fullname="DiskTree.DiskTreeTask_should.Test3" methodname="Test3" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="1032283863" result="Failed" start-time="2023-08-03T07:12:52.0586463Z" end-time="2023-08-03T07:12:52.0599808Z" duration="0.001335" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 7 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  Expected string length 1 but was 5. Strings differ at index 0.
+  Expected: "A"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+            <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test3() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 24
+]]></stack-trace>
+          </failure>
+          <output><![CDATA[GAMES
+]]></output>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 7 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  Expected string length 1 but was 5. Strings differ at index 0.
+  Expected: "A"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test3() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 24
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1004" name="Test4" fullname="DiskTree.DiskTreeTask_should.Test4" methodname="Test4" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="663112390" result="Failed" start-time="2023-08-03T07:12:52.0601018Z" end-time="2023-08-03T07:12:52.0612457Z" duration="0.001144" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 9 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  Expected string length 8 but was 5. Strings differ at index 0.
+  Expected: "!#$%&'()"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+            <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test4() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 27
+]]></stack-trace>
+          </failure>
+          <output><![CDATA[GAMES
+]]></output>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 9 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  Expected string length 8 but was 5. Strings differ at index 0.
+  Expected: "!#$%&'()"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test4() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 27
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1005" name="Test5" fullname="DiskTree.DiskTreeTask_should.Test5" methodname="Test5" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="403475055" result="Failed" start-time="2023-08-03T07:12:52.0612684Z" end-time="2023-08-03T07:12:52.0628150Z" duration="0.001547" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 28 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  Expected string length 1 but was 5. Strings differ at index 0.
+  Expected: "A"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+            <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test5() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 31
+]]></stack-trace>
+          </failure>
+          <output><![CDATA[GAMES
+]]></output>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 28 elements, actual is <System.Collections.Generic.List`1[System.String]> with 12 elements
+  Values differ at index [0]
+  Expected string length 1 but was 5. Strings differ at index 0.
+  Expected: "A"
+  But was:  "GAMES"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[   at DiskTree.DiskTreeTask_should.MakeTest(List`1 input, List`1 answer) in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 13
+   at DiskTree.DiskTreeTask_should.Test5() in D:\Downloads\DiskTree\DiskTreeTask_should.cs:line 31
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

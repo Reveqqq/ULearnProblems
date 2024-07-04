@@ -1,0 +1,10 @@
+D:\Загрузки\Billiards.csproj\bin\Debug\Billiards.exe.config
+D:\Загрузки\Billiards.csproj\bin\Debug\Billiards.exe
+D:\Загрузки\Billiards.csproj\bin\Debug\Billiards.pdb
+D:\Загрузки\Billiards.csproj\bin\Debug\TestingRoom.dll
+D:\Загрузки\Billiards.csproj\obj\Debug\Billiards.csproj.AssemblyReference.cache
+D:\Загрузки\Billiards.csproj\obj\Debug\Billiards.csproj.SuggestedBindingRedirects.cache
+D:\Загрузки\Billiards.csproj\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+D:\Загрузки\Billiards.csproj\obj\Debug\Billiards.csproj.CopyComplete
+D:\Загрузки\Billiards.csproj\obj\Debug\Billiards.exe
+D:\Загрузки\Billiards.csproj\obj\Debug\Billiards.pdb

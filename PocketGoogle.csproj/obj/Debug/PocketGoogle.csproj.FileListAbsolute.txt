@@ -1,0 +1,16 @@
+D:\Downloads\PocketGoogle.csproj\bin\Debug\Texts\0.txt
+D:\Downloads\PocketGoogle.csproj\bin\Debug\Texts\1.txt
+D:\Downloads\PocketGoogle.csproj\bin\Debug\Texts\2.txt
+D:\Downloads\PocketGoogle.csproj\bin\Debug\Texts\4.txt
+D:\Downloads\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe.config
+D:\Downloads\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe
+D:\Downloads\PocketGoogle.csproj\bin\Debug\PocketGoogle.pdb
+D:\Downloads\PocketGoogle.csproj\bin\Debug\nunit.framework.dll
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.AssemblyReference.cache
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.Properties.Resources.resources
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CoreCompileInputs.cache
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CopyComplete
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.exe
+D:\Downloads\PocketGoogle.csproj\obj\Debug\PocketGoogle.pdb

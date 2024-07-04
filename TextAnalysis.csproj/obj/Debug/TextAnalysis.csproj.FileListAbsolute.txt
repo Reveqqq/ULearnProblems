@@ -1,0 +1,14 @@
+D:\Загрузки\TextAnalysis.csproj\bin\Debug\HarryPotterText.txt
+D:\Загрузки\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe.config
+D:\Загрузки\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe
+D:\Загрузки\TextAnalysis.csproj\bin\Debug\TextAnalysis.pdb
+D:\Загрузки\TextAnalysis.csproj\bin\Debug\nunit.framework.dll
+D:\Загрузки\TextAnalysis.csproj\bin\Debug\nunitlite.dll
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.SuggestedBindingRedirects.cache
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.Properties.Resources.resources
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CopyComplete
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.exe
+D:\Загрузки\TextAnalysis.csproj\obj\Debug\TextAnalysis.pdb
